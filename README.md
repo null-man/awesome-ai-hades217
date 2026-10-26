@@ -569,6 +569,9 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Runway Gen-4**](https://runwayml.com/) — AI video generation and editing.
 * [**Pika 2.0**](https://pika.art/) — text-to-video.
 * [**GrokVideo Studio**](https://grokvideogenerator.dev) 🆕 — independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X); free trial credits.
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok). `Paid`
+- **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99). `Paid`
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99). `Paid`
 * [**Hailuo 02 (MiniMax)**](https://hailuoai.video/) 🇨🇳 — strong video gen.
 * [**Kling AI**](https://klingai.com/) 🇨🇳 — Kuaishou's video gen.
 * [**HeyGen**](https://www.heygen.com/) — AI avatars and translation.
