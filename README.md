@@ -556,6 +556,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Recraft V3**](https://www.recraft.ai/) 🆕 — design-grade image generation.
 * [**Ideogram 2.0**](https://ideogram.ai/) — image generation with great text rendering.
 * [**Leonardo.AI**](https://leonardo.ai/) 🇦🇺 — Sydney-based image generation.
+* [**PromptImage**](https://promptimage.cloud) 🆕 — free AI image & video studio with prompt library; signup credits, no card required (freemium).
 * [**Krea**](https://www.krea.ai/) — real-time AI canvas.
 * [**Canva Magic Studio**](https://www.canva.com/magic-studio/) — AI design tools.
 * [**Figma AI / Make**](https://www.figma.com/ai/) — AI in Figma.
@@ -567,6 +568,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Veo 3 (Google)**](https://deepmind.google/technologies/veo/) ⭐ — video gen with native audio.
 * [**Runway Gen-4**](https://runwayml.com/) — AI video generation and editing.
 * [**Pika 2.0**](https://pika.art/) — text-to-video.
+* [**GrokVideo Studio**](https://grokvideogenerator.dev) 🆕 — independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X); free trial credits.
 * [**Hailuo 02 (MiniMax)**](https://hailuoai.video/) 🇨🇳 — strong video gen.
 * [**Kling AI**](https://klingai.com/) 🇨🇳 — Kuaishou's video gen.
 * [**HeyGen**](https://www.heygen.com/) — AI avatars and translation.
