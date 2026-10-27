@@ -572,6 +572,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 - **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok). `Paid`
 - **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99). `Paid`
 - **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99). `Paid`
+- **[TeslaWraps](https://teslawraps.design)** — Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credits. Freemium.
 * [**Hailuo 02 (MiniMax)**](https://hailuoai.video/) 🇨🇳 — strong video gen.
 * [**Kling AI**](https://klingai.com/) 🇨🇳 — Kuaishou's video gen.
 * [**HeyGen**](https://www.heygen.com/) — AI avatars and translation.
